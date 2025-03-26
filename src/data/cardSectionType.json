@@ -1,0 +1,156 @@
+[
+  {
+    "type": "hottest",
+    "title": "The Hottest",
+    "description": "Top 50 trending games today",
+    "titleType": "default",
+    "cardType": "rank"
+  },
+  {
+    "type": "crowdfunding",
+    "title": "Crowdfunding Countdown",
+    "description": "Projects ending soon",
+    "titleType": "default",
+    "cardType": "crowdfunding"
+  },
+  {
+    "type": "video",
+    "title": "Featured Videos",
+    "description": "",
+    "titleType": "video",
+    "cardType": "video"
+  },
+  {
+    "type": "geekWeekly",
+    "title": "The geek weekly",
+    "description": "Our recap of things you might have missed this week.",
+    "titleType": "default",
+    "cardType": "newRelease"
+  },
+  {
+    "type": "goneCardboard",
+    "title": "Gone Cardboard",
+    "description": "",
+    "titleType": "withFilters",
+    "cardType": "goneCardboard"
+  },
+  {
+    "type": "bestSellers",
+    "title": "Bestsellers",
+    "description": "Week of Mar 3–Mar 9",
+    "titleType": "default",
+    "cardType": "rank"
+  },
+  {
+    "type": "mostPlayed",
+    "title": "Most Played Games",
+    "description": "Month of February",
+    "titleType": "default",
+    "cardType": "rank"
+  },
+  {
+    "type": "newReleases",
+    "title": "New Releases",
+    "description": "Weekly list of the most recent game releases.",
+    "titleType": "default",
+    "cardType": "newRelease"
+  },
+  {
+    "type": "inDepth",
+    "title": "In depth review",
+    "description": "",
+    "titleType": "video",
+    "cardType": "video"
+  },
+  {
+    "type": "focusSponsored",
+    "title": "In Focus Sponsored",
+    "description": "",
+    "titleType": "video",
+    "cardType": "sponsored"
+  },
+  {
+    "type": "giveawayContest",
+    "title": "Giveaway Contest",
+    "description": "Answer questions for a chance to win – Sponsored",
+    "titleType": "default",
+    "cardType": "sponsored"
+  },
+  {
+    "type": "geekLists",
+    "title": "Hot GeekLists",
+    "description": "",
+    "titleType": "video",
+    "cardType": "geekList"
+  },
+  {
+    "type": "communityVideo",
+    "title": "Videos",
+    "description": "",
+    "titleType": "video",
+    "cardType": "video"
+  },
+  {
+    "type": "images",
+    "title": "Images",
+    "description": "",
+    "titleType": "default",
+    "cardType": ""
+  },
+  {
+    "type": "news",
+    "title": "News",
+    "description": "",
+    "titleType": "withFilters",
+    "cardType": "video&like"
+  },
+  {
+    "type": "reviews",
+    "title": "Reviews",
+    "description": "",
+    "titleType": "withFilters",
+    "cardType": "video&like"
+  },
+  {
+    "type": "forums",
+    "title": "Forums",
+    "description": "",
+    "titleType": "forum",
+    "cardType": "video&like"
+  },
+  {
+    "type": "discussionCrowdfunding",
+    "title": "Crowdfunding",
+    "description": "",
+    "titleType": "crowdfunding",
+    "cardType": "video&like"
+  },
+  {
+    "type": "blogs",
+    "title": "Blogs",
+    "description": "",
+    "titleType": "crowdfunding",
+    "cardType": "video&like"
+  },
+  {
+    "type": "sessions",
+    "title": "Sessions",
+    "description": "",
+    "titleType": "crowdfunding",
+    "cardType": "video&like"
+  },
+  {
+    "type": "community",
+    "title": "Community",
+    "description": "",
+    "titleType": "withFilters",
+    "cardType": "video&like"
+  },
+  {
+    "type": "bggRelated",
+    "title": "Community",
+    "description": "",
+    "titleType": "forum",
+    "cardType": "video&like"
+  }
+]

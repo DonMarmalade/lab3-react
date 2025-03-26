@@ -1,0 +1,32 @@
+.imageScroll {
+    position: relative;
+
+    .imageScrollOverflow {
+        overflow-x: auto;
+        overflow-y: hidden;
+        position: relative;
+        scrollbar-width: none;
+        --grid-column-gap: 12px;
+        --module-padding: 60px;
+
+        .imageScrollList {
+            grid-auto-columns: calc((100% - 9* var(--grid-column-gap) - var(--module-padding)) / 10);
+            padding-left: 0;
+            list-style: none;
+            display: grid;
+            grid-auto-flow: column;
+            grid-column-gap: 12px;
+            grid-row-gap: 12px;
+            grid-template-rows: repeat(2, 130px);
+
+            :nth-child(17n + 1) {
+                grid-column: span 2;
+                grid-row: span 2;
+            }
+
+            :nth-child(6n) {
+                grid-column: span 2;
+            }
+        }
+    }
+}

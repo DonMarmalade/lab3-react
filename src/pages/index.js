@@ -1,0 +1,9 @@
+export {default as HomePage} from "./HomePage.jsx"
+export {default as CommunityPage} from './Forum/CommunityPage.jsx'
+export {default as ForumPage} from './Forum/ForumPage.jsx'
+export {default as ThreadPage} from './Forum/ThreadPage.jsx'
+export {default as GeekListPage} from './GeekList/GeekListPage.jsx'
+export {default as GeekPage} from './GeekList/GeekPage.jsx'
+export {default as BrowsePage} from './Browse/BrowsePage.jsx'
+export {default as GamePage} from './Browse/GamePage.jsx'
+export {default as NotFoundPage} from './NotFound/NotFound.jsx'

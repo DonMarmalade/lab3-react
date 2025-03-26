@@ -1,0 +1,376 @@
+[
+  {
+    "name": "img",
+    "guid": "e472055e-1dc7-4f3c-a19c-7d7606df030a",
+    "picture": "/src/assets/images/boardgames/img.png",
+    "year": "2018",
+    "type": "board game",
+    "players": 10,
+    "time": 1,
+    "age": 6,
+    "complexity": 1,
+    "ratings": 10,
+    "comments": 8,
+    "about": "Build networks, grow industries, and navigate the world of the Industrial Revolution.\r\n",
+    "alternate": [
+      "Adrienne Stewart",
+      "Kim Oneil",
+      "Nona Carroll"
+    ],
+    "designers": [
+      "Robinson Meyer",
+      "Terrie Mcfarland",
+      "Madelyn Vega"
+    ],
+    "artists": [
+      "Ortega Jacobson",
+      "Melton Anthony",
+      "Sandoval Snow"
+    ],
+    "publisher": [
+      "Callahan Mcknight",
+      "Acevedo Price",
+      "Sims Barrera"
+    ]
+  },
+  {
+    "name": "Brass: Birmingham",
+    "guid": "d2ec323d-8911-45dc-aab7-de37147dfe8b",
+    "picture": "/src/assets/images/boardgames/img_1.png",
+    "year": "2018",
+    "type": "board game",
+    "players": 2,
+    "time": 7,
+    "age": 5,
+    "complexity": 10,
+    "ratings": 0,
+    "comments": 0,
+    "about": "Build networks, grow industries, and navigate the world of the Industrial Revolution.\r\n",
+    "alternate": [
+      "Charmaine Hampton",
+      "Ewing Reid",
+      "Adrian Ferguson"
+    ],
+    "designers": [
+      "Weber Ferrell",
+      "Sexton Johns",
+      "Lidia Stanley"
+    ],
+    "artists": [
+      "Deloris Garza",
+      "Baird Stuart",
+      "Byers Wilkinson"
+    ],
+    "publisher": [
+      "Humphrey Le",
+      "Deann Hudson",
+      "Ramirez Saunders"
+    ]
+  },
+  {
+    "name": "Pandemic Legacy: Season 1",
+    "guid": "c9c74b4e-7618-4c42-bc15-f797e86d4192",
+    "picture": "/src/assets/images/boardgames/img_2.png",
+    "year": "2015",
+    "type": "board game",
+    "players": 9,
+    "time": 0,
+    "age": 2,
+    "complexity": 10,
+    "ratings": 9,
+    "comments": 7,
+    "about": "Mutating diseases are spreading around the world - can your team save humanity?\r\n",
+    "alternate": [
+      "Martina Shepard",
+      "Claire Fleming",
+      "Raquel Clements"
+    ],
+    "designers": [
+      "Jackie Dunn",
+      "Cleo Langley",
+      "Gail Hawkins"
+    ],
+    "artists": [
+      "Louisa Leach",
+      "Brigitte Sears",
+      "Iris Aguirre"
+    ],
+    "publisher": [
+      "Sweeney Peck",
+      "Hester Alexander",
+      "Faye Irwin"
+    ]
+  },
+  {
+    "name": "Ark Nova",
+    "guid": "08c09e33-45e1-4879-875b-f0fe9cba800e",
+    "picture": "/src/assets/images/boardgames/img_3.png",
+    "year": "2021",
+    "type": "board game",
+    "players": 3,
+    "time": 5,
+    "age": 8,
+    "complexity": 2,
+    "ratings": 1,
+    "comments": 1,
+    "about": "Plan and build a modern, scientifically managed zoo to support conservation projects.\r\n",
+    "alternate": [
+      "Tricia Silva",
+      "Morse Zamora",
+      "Molina Huffman"
+    ],
+    "designers": [
+      "Phyllis Reilly",
+      "Joyner Robles",
+      "Daniel Orr"
+    ],
+    "artists": [
+      "Cooley Figueroa",
+      "Booth Burt",
+      "Bradford Mclaughlin"
+    ],
+    "publisher": [
+      "Richardson Wolf",
+      "Bryant Ramirez",
+      "Mcguire Whitaker"
+    ]
+  },
+  {
+    "name": "Gloomhaven",
+    "guid": "579325cb-fbfe-4e50-92cc-b0164b8fd347",
+    "picture": "/src/assets/images/boardgames/img_4.png",
+    "year": "2017",
+    "type": "board game",
+    "players": 5,
+    "time": 3,
+    "age": 7,
+    "complexity": 9,
+    "ratings": 2,
+    "comments": 7,
+    "about": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!\r\n",
+    "alternate": [
+      "Deanne Dunlap",
+      "Ratliff Clemons",
+      "Tamara Love"
+    ],
+    "designers": [
+      "Adams Duncan",
+      "Serrano Gutierrez",
+      "Abbott Lucas"
+    ],
+    "artists": [
+      "Harrington Huff",
+      "Vega Hale",
+      "Mayer Browning"
+    ],
+    "publisher": [
+      "Tyler Parsons",
+      "Wise Mcclain",
+      "Cathy Bradford"
+    ]
+  },
+  {
+    "name": "Twilight Imperium: Fourth Edition",
+    "guid": "3cad15d6-8831-4c2c-afe4-ae2a514af300",
+    "picture": "/src/assets/images/boardgames/img_5.png",
+    "year": "2017",
+    "type": "board game",
+    "players": 5,
+    "time": 2,
+    "age": 5,
+    "complexity": 7,
+    "ratings": 6,
+    "comments": 0,
+    "about": "Build an intergalactic empire through trade, research, conquest and grand politics.\r\n",
+    "alternate": [
+      "Finley Glenn",
+      "Parker Clark",
+      "Mcgee Marquez"
+    ],
+    "designers": [
+      "Jeanine Marshall",
+      "Stacy Boyer",
+      "Shanna Stafford"
+    ],
+    "artists": [
+      "Helen Mejia",
+      "Liz Case",
+      "Adriana Tran"
+    ],
+    "publisher": [
+      "Gina Charles",
+      "Billie Dodson",
+      "Eve Wall"
+    ]
+  },
+  {
+    "name": "Dune: Imperium",
+    "guid": "ac40f0c9-e167-47f7-bda1-30f7271d927c",
+    "picture": "/src/assets/images/boardgames/img_6.png",
+    "year": "2020",
+    "type": "board game",
+    "players": 4,
+    "time": 9,
+    "age": 0,
+    "complexity": 4,
+    "ratings": 6,
+    "comments": 1,
+    "about": "Influence, intrigue, and combat in the universe of Dune.\r\n",
+    "alternate": [
+      "Mayra Lloyd",
+      "Alana Butler",
+      "Weeks Morin"
+    ],
+    "designers": [
+      "Brianna Kirk",
+      "Glenn Barker",
+      "Rosales Battle"
+    ],
+    "artists": [
+      "Mitchell Benton",
+      "Arnold Hayden",
+      "Rowland Ross"
+    ],
+    "publisher": [
+      "Dickerson Griffin",
+      "Dixie Curtis",
+      "Jeanne Dennis"
+    ]
+  },
+  {
+    "name": "Terraforming Mars",
+    "guid": "692a3516-49d9-4b54-b809-cfa0289bf0e7",
+    "picture": "/src/assets/images/boardgames/img_7.png",
+    "year": "2016",
+    "type": "board game",
+    "players": 0,
+    "time": 9,
+    "age": 10,
+    "complexity": 1,
+    "ratings": 2,
+    "comments": 10,
+    "about": "Compete with rival CEOs to make Mars habitable and build your corporate empire.\r\n",
+    "alternate": [
+      "Cara Gregory",
+      "Cannon Sweeney",
+      "Kim Pennington"
+    ],
+    "designers": [
+      "Hess Maxwell",
+      "Mccarthy Cherry",
+      "Polly Flores"
+    ],
+    "artists": [
+      "Rowena Fuentes",
+      "Tracey Smith",
+      "Samantha Montoya"
+    ],
+    "publisher": [
+      "Berta Livingston",
+      "Freda Lynn",
+      "Park Roy"
+    ]
+  },
+  {
+    "name": "War of the Ring: Second Edition",
+    "guid": "d86bc2c7-4430-41ea-94dd-1d0244f65093",
+    "picture": "/src/assets/images/boardgames/img_8.png",
+    "year": "2011",
+    "type": "board game",
+    "players": 7,
+    "time": 3,
+    "age": 4,
+    "complexity": 5,
+    "ratings": 7,
+    "comments": 6,
+    "about": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.\r\n",
+    "alternate": [
+      "Kris Waller",
+      "Dodson Olsen",
+      "Grace Stark"
+    ],
+    "designers": [
+      "Moss Cohen",
+      "Banks Baird",
+      "Horton Richard"
+    ],
+    "artists": [
+      "Clements Tanner",
+      "Gray Ballard",
+      "Rosemary Miles"
+    ],
+    "publisher": [
+      "Ryan Ramsey",
+      "Bowers Crane",
+      "Morrison Chase"
+    ]
+  },
+  {
+    "name": "Star Wars: Rebellion",
+    "guid": "cdf96705-1f73-4dc6-a4a2-0e7d71cfab3f",
+    "picture": "/src/assets/images/boardgames/img_9.png",
+    "year": "2016",
+    "type": "board game",
+    "players": 6,
+    "time": 6,
+    "age": 3,
+    "complexity": 8,
+    "ratings": 8,
+    "comments": 6,
+    "about": "Strike from your hidden base as the Rebels—or find and destroy it as the Empire.\r\n",
+    "alternate": [
+      "Bridgett Klein",
+      "Calhoun Sampson",
+      "Mcpherson Brock"
+    ],
+    "designers": [
+      "Alissa Wynn",
+      "Good Roach",
+      "Becky Brennan"
+    ],
+    "artists": [
+      "Cochran Melton",
+      "Bailey Franco",
+      "Jenny Rich"
+    ],
+    "publisher": [
+      "Lenora Jacobs",
+      "Jan Bonner",
+      "Mcconnell Solis"
+    ]
+  },
+  {
+    "name": "Spirit Island",
+    "guid": "c6e812b6-aaa0-4624-b567-16314ecb988d",
+    "picture": "/src/assets/images/boardgames/img_10.png",
+    "year": "2017",
+    "type": "board game",
+    "players": 6,
+    "time": 6,
+    "age": 3,
+    "complexity": 8,
+    "ratings": 8,
+    "comments": 6,
+    "about": "Island Spirits join forces using elemental powers to defend their home from invaders.\r\n",
+    "alternate": [
+      "Bridgett Klein",
+      "Calhoun Sampson",
+      "Mcpherson Brock"
+    ],
+    "designers": [
+      "Alissa Wynn",
+      "Good Roach",
+      "Becky Brennan"
+    ],
+    "artists": [
+      "Cochran Melton",
+      "Bailey Franco",
+      "Jenny Rich"
+    ],
+    "publisher": [
+      "Lenora Jacobs",
+      "Jan Bonner",
+      "Mcconnell Solis"
+    ]
+  }
+]

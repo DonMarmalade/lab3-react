@@ -1,0 +1,56 @@
+:root {
+    /* Colors */
+    --light-orange: #ff5100;
+    --light-purple: #3f3a60;
+    --light-white: #f6f6f6;
+    --light-black: #1d1d1d;
+    --light-gray: #a9a9a9;
+    --light-highlight-red: #e70707;
+    --light-highlight-green: #197e47;
+
+    --background-background-white-primary: #eeeeee;
+    --background-backgroung-white-secondary: #ffffff;
+
+    /* Fonts */
+    --h6-font-family: SegoeUi-Regular, sans-serif;
+    --h6-font-size: 16px;
+    --h6-line-height: normal;
+    --h6-font-weight: 400;
+    --h6-font-style: normal;
+
+    --h6-bold-font-family: SegoeUi-Bold, sans-serif;
+    --h6-bold-font-size: 16px;
+    --h6-bold-line-height: normal;
+    --h6-bold-font-weight: 700;
+    --h6-bold-font-style: normal;
+
+    --h4-bold-font-family: SegoeUi-Bold, sans-serif;
+    --h4-bold-font-size: 20px;
+    --h4-bold-line-height: normal;
+    --h4-bold-font-weight: 700;
+    --h4-bold-font-style: normal;
+
+    --h7-font-family: SegoeUi-Regular, sans-serif;
+    --h7-font-size: 14px;
+    --h7-line-height: normal;
+    --h7-font-weight: 400;
+    --h7-font-style: normal;
+
+    --h3-bold-caps-font-family: SegoeUi-Bold, sans-serif;
+    --h3-bold-caps-font-size: 24px;
+    --h3-bold-caps-line-height: normal;
+    --h3-bold-caps-font-weight: 700;
+    --h3-bold-caps-font-style: normal;
+
+    --h8-font-family: SegoeUi-Regular, sans-serif;
+    --h8-font-size: 12px;
+    --h8-line-height: normal;
+    --h8-font-weight: 400;
+    --h8-font-style: normal;
+
+    --h1-bold-font-family: SegoeUi-Bold, sans-serif;
+    --h1-bold-font-size: 36px;
+    --h1-bold-line-height: normal;
+    --h1-bold-font-weight: 700;
+    --h1-bold-font-style: normal;
+}

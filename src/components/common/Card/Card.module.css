@@ -1,0 +1,127 @@
+.container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 4px 0;
+    position: relative;
+    width: 100%;
+
+    .titleRow {
+        align-items: center;
+        align-self: stretch;
+        display: flex;
+        gap: 6px;
+        position: relative;
+        width: 100%;
+
+        p {
+            color: var(--light-black);
+            font-family: var(--h6-bold-font-family), sans-serif;
+            font-size: var(--h6-bold-font-size);
+            font-style: var(--h6-bold-font-style);
+            font-weight: var(--h6-bold-font-weight);
+            line-height: var(--h6-bold-line-height);
+            margin-top: -1.00px;
+            position: relative;
+            width: fit-content;
+        }
+    }
+
+    .statisticRow {
+        align-items: center;
+        display: flex;
+        gap: 6px;
+        position: relative;
+
+        span {
+            color: var(--light-gray);
+            font-family: var(--h7-font-family), sans-serif;
+            font-size: var(--h7-font-size);
+            font-style: var(--h7-font-style);
+            font-weight: var(--h7-font-weight);
+            line-height: var(--h7-line-height);
+            margin-top: -1.00px;
+            position: relative;
+            width: fit-content;
+        }
+    }
+
+    p {
+        color: var(--light-gray);
+        font-family: var(--h7-font-family), sans-serif;
+        font-size: var(--h7-font-size);
+        font-style: var(--h7-font-style);
+        font-weight: var(--h7-font-weight);
+        line-height: var(--h7-line-height);
+        margin-top: -1.00px;
+        position: relative;
+        width: fit-content;
+    }
+}
+
+.card{
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+    /*width: 256px;*/
+}
+
+.visitProject {
+    align-items: center;
+    border: solid 2px var(--light-highlight-green);
+    border-radius: 5px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 6px 12px;
+    position: relative;
+
+    span {
+        color: var(--light-highlight-green);
+        font-family: var(--h7-font-family), sans-serif;
+        font-size: var(--h7-font-size);
+        font-style: var(--h7-font-style);
+        font-weight: var(--h7-font-weight);
+        line-height: var(--h7-line-height);
+        margin-top: -1.00px;
+        width: fit-content;
+    }
+}
+
+.image {
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    height: 164px;
+    border-radius: 10px;
+}
+
+.crowdfundingImage {
+    border-bottom: solid 8px var(--light-highlight-green);
+}
+
+.geekListImageList {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 8px;
+    position: relative;
+    /*child 1-3*/
+    .geekListImage {
+        height: 80px;
+        object-fit: cover;
+        position: relative;
+        width: 80px;
+    }
+
+    :nth-child(1) {
+        border-radius: 5px 0 0 5px;
+    }
+
+    :nth-child(3) {
+        border-radius: 0 5px 5px 0;
+    }
+}

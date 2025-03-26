@@ -1,0 +1,16 @@
+.homepage {
+    background-color: var(--background-background-white-primary);
+    width: 100%;
+
+    .container {
+        margin: 120px 160px;
+        align-items: center;
+        background-color: var(--background-backgroung-white-secondary);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        padding: 24px 60px;
+        position: relative;
+    }
+}

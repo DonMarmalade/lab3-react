@@ -1,0 +1,380 @@
+[
+  {
+    "guid": "411e1d47-eb75-493d-a01f-a34b4f555cc2",
+    "name": "Down",
+    "url": "/src/assets/icons/arrows/arrowDown/DownSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "901ba418-0a7f-4250-b7e2-76a072b88691",
+    "name": "Down",
+    "url": "/src/assets/icons/arrows/arrowDown/DownSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "ba0e9bd4-3057-41d0-a294-64239db141d9",
+    "name": "Down",
+    "url": "/src/assets/icons/arrows/arrowDown/DownUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "f1bc5047-dcaf-45af-bb1c-b0038b6b4cae",
+    "name": "Down",
+    "url": "/src/assets/icons/arrows/arrowDown/DownUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "41a758e9-3752-4428-b900-03b5bb8c0b5c",
+    "name": "Left",
+    "url": "/src/assets/icons/arrows/arrowLeft/LeftSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "acf1a6de-0402-4380-9450-73e5871588b4",
+    "name": "Left",
+    "url": "/src/assets/icons/arrows/arrowLeft/LeftSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "02896da9-5e1a-4a4d-9d91-7d3f2a28e13c",
+    "name": "Left",
+    "url": "/src/assets/icons/arrows/arrowLeft/LeftUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "f6c0f14e-1e3c-422b-b9b7-cda0111ac137",
+    "name": "Left",
+    "url": "/src/assets/icons/arrows/arrowLeft/LeftUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "e2f1cf92-8d94-4e09-9b69-66883dfb29c7",
+    "name": "Right",
+    "url": "/src/assets/icons/arrows/arrowRight/RightSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "006663fe-d9cd-49f0-bb5e-e546c0e57d98",
+    "name": "Right",
+    "url": "/src/assets/icons/arrows/arrowRight/RightSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "1eb2f80f-bf39-4f9d-99da-cdbdd19a1538",
+    "name": "Right",
+    "url": "/src/assets/icons/arrows/arrowRight/RightUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "d9c12b8e-d34b-4e57-87d3-43b6403ba8fe",
+    "name": "Right",
+    "url": "/src/assets/icons/arrows/arrowRight/RightUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "fbc8a276-1e26-43fb-9534-b98a48f1fb98",
+    "name": "Up",
+    "url": "/src/assets/icons/arrows/arrowUp/UpSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "60b1e7ae-5602-4fea-a268-25b1e8a59145",
+    "name": "Up",
+    "url": "/src/assets/icons/arrows/arrowUp/UpSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "b840e138-f242-49cd-a887-76cfe2775165",
+    "name": "Up",
+    "url": "/src/assets/icons/arrows/arrowUp/UpUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "59d3c179-bf73-43bd-b0d6-6e2f07463123",
+    "name": "Up",
+    "url": "/src/assets/icons/arrows/arrowUp/UpUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "a67b04a6-d7a5-45ec-a98d-35d62dec07f4",
+    "name": "Account",
+    "url": "/src/assets/icons/gameHeader/AccountSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "91131526-e8c7-4775-91a3-6480091a07dd",
+    "name": "Clock",
+    "url": "/src/assets/icons/gameHeader/ClockSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "60a2c2fb-b4f3-4859-9da0-7371fbe8c488",
+    "name": "Community",
+    "url": "/src/assets/icons/gameHeader/CommunitySB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "46fee30d-e968-4c2d-ba23-a45e0a6d10ec",
+    "name": "Complexity",
+    "url": "/src/assets/icons/gameHeader/ComplexitySB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "169e0189-84e7-4698-ab48-329102f78f26",
+    "name": "Crown",
+    "url": "/src/assets/icons/gameHeader/CrownSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "8b688008-b6e2-468f-b2aa-6235af7b23e4",
+    "name": "Link",
+    "url": "/src/assets/icons/gameHeader/LinkSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "2187a394-32a6-4408-9a52-a899ba6ccc45",
+    "name": "Star",
+    "url": "/src/assets/icons/gameHeader/StarSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "e0e389e8-3cde-4009-a99c-894c6ed92e8d",
+    "name": "Star",
+    "url": "/src/assets/icons/gameHeader/StarUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "3dc0a1e4-b8a3-4c93-a5a9-fc6271056c7a",
+    "name": "ArrowRight",
+    "url": "/src/assets/icons/general/big/ArrowRightUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "ff7365bc-fc62-4a13-a7b3-e8abd7f8e5ed",
+    "name": "Dice",
+    "url": "/src/assets/icons/general/big/DiceUB.svg",
+    "state": "unselected",
+    "size": "big"
+  },
+  {
+    "guid": "b2da4f7e-9bd6-4565-9064-e22b5727bcac",
+    "name": "Complexity",
+    "url": "/src/assets/icons/general/medium/ComplexityUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "dd92bee6-9439-4189-b069-dfdf891d300e",
+    "name": "Crown",
+    "url": "/src/assets/icons/general/medium/CrownUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "640c7b2f-4084-4cca-8ccb-9cf7498a3f80",
+    "name": "Megaphone",
+    "url": "/src/assets/icons/general/medium/MegaphoneUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "1048498d-5287-4d17-ba98-f42c2d21c6e9",
+    "name": "Replies",
+    "url": "/src/assets/icons/general/medium/RepliesUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "12912676-cad4-494a-9b2a-4bfbe032e9d8",
+    "name": "Search",
+    "url": "/src/assets/icons/general/medium/SearchUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "c73f99fe-8c15-48c5-82be-29c377f48e68",
+    "name": "Settings",
+    "url": "/src/assets/icons/general/medium/SettingsUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "cbf47cfd-3811-4e23-b817-a98562e336de",
+    "name": "Shield",
+    "url": "/src/assets/icons/general/medium/ShieldUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "e39eed3b-b4cc-4cde-9233-a0db696d51fb",
+    "name": "Share",
+    "url": "/src/assets/icons/medium/kickstarter/ShareKM.svg",
+    "state": "kickstarter",
+    "size": "medium"
+  },
+  {
+    "guid": "0d683d08-a7a0-41db-aca8-1e4b3fdbe388",
+    "name": "Account",
+    "url": "/src/assets/icons/medium/selected/AccountSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "4512faf0-7a07-47ca-8dc5-3276af14afab",
+    "name": "Comment",
+    "url": "/src/assets/icons/medium/selected/CommentSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "f9363632-d90b-41aa-b57e-33447dee0352",
+    "name": "Dot",
+    "url": "/src/assets/icons/medium/selected/DotSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "2d4c5f28-2249-4cee-9c5d-76617def7ea3",
+    "name": "Heart",
+    "url": "/src/assets/icons/medium/selected/HeartSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "008fc5c4-ef2b-40ba-81f8-69a86b7497ae",
+    "name": "Like",
+    "url": "/src/assets/icons/medium/selected/LikeSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "d4f43127-d554-47bb-8bc3-6d9935acea2d",
+    "name": "Save",
+    "url": "/src/assets/icons/medium/selected/SaveSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "276702ce-362a-46d6-83c8-3146579c7c82",
+    "name": "Share",
+    "url": "/src/assets/icons/medium/selected/ShareSM.svg",
+    "state": "selected",
+    "size": "medium"
+  },
+  {
+    "guid": "507df8b5-0dc1-44c1-85b6-64cba8b939aa",
+    "name": "Account",
+    "url": "src/assets/icons/medium/unselected/AccountUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "9265d171-8ef8-43cd-bec4-bf2681a69a48",
+    "name": "Comment",
+    "url": "/src/assets/icons/medium/unselected/CommentUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "a83799cb-248e-4cdc-8c8a-c9ca1cae17f5",
+    "name": "Dot",
+    "url": "/src/assets/icons/medium/unselected/DotUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "6f339938-3c88-4ba7-aa3a-67184744d457",
+    "name": "Heart",
+    "url": "/src/assets/icons/medium/unselected/HeartUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "4b2a9aa9-1f44-4a02-b176-e6984c3b89b4",
+    "name": "Like",
+    "url": "/src/assets/icons/medium/unselected/LikeUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "2c1f04cc-aa26-4c45-9aa8-7509af40570b",
+    "name": "Save",
+    "url": "/src/assets/icons/medium/unselected/SaveUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "3a09442e-c87f-45ad-9b7a-c955e9db4c6e",
+    "name": "Share",
+    "url": "/src/assets/icons/medium/unselected/ShareUM.svg",
+    "state": "unselected",
+    "size": "medium"
+  },
+  {
+    "guid": "f4e33bbb-078f-4102-ba8e-6550bcd7332b",
+    "name": "Bluesky",
+    "url": "/src/assets/icons/social/BlueskySB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "70c103e7-9104-4d38-8883-40eda4d6602e",
+    "name": "Discord",
+    "url": "/src/assets/icons/social/DiscordSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "ffefa3e2-1b6a-48d7-b898-ae577bfca856",
+    "name": "Facebook",
+    "url": "/src/assets/icons/social/FacebookSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "bafce9b4-501c-4ed6-a97d-81aea7c78b52",
+    "name": "Instagram",
+    "url": "/src/assets/icons/social/InstagramSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "bcaf1d21-d8d8-4f68-80e9-7c3d8e8324bd",
+    "name": "Twitch",
+    "url": "/src/assets/icons/social/TwitchSB.svg",
+    "state": "selected",
+    "size": "big"
+  },
+  {
+    "guid": "60a11333-feef-44b6-8254-c587b76401e0",
+    "name": "Youtube",
+    "url": "/src/assets/icons/social/YoutubeSB.svg",
+    "state": "selected",
+    "size": "big"
+  }
+]

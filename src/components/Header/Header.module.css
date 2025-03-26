@@ -1,0 +1,81 @@
+.header {
+    align-items: center;
+    background-color: var(--light-purple);
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 160px;
+    position: relative;
+    width: 100%;
+
+    .left {
+        align-items: center;
+        display: inline-flex;
+        flex: 0 0 auto;
+        gap: 48px;
+        position: relative;
+
+        .logo {
+            flex: 0 0 auto !important;
+            position: relative !important;
+        }
+
+        .linksRow {
+            align-items: flex-end;
+            display: inline-flex;
+            flex: 0 0 auto;
+            gap: 38px;
+            position: relative;
+
+            .link {
+                color: var(--light-white);
+                font-family: var(--h6-font-family), sans-serif;
+                font-size: var(--h6-font-size);
+                font-style: var(--h6-font-style);
+                font-weight: var(--h6-font-weight);
+                line-height: var(--h6-line-height);
+                margin-top: -1.00px;
+                position: relative;
+                width: fit-content;
+            }
+        }
+    }
+
+    .right {
+        align-items: center;
+        display: flex;
+        gap: 24px;
+        position: relative;
+        width: 50%;
+
+        .searchBar {
+            align-items: center;
+            background-color: var(--light-white);
+            border-radius: 10px;
+            display: flex;
+            flex: 1;
+            gap: 12px;
+            padding: 8px 20px;
+            position: relative;
+
+            .searchText {
+                color: #a9a9a9;
+                font-family: var(--h6-font-family), sans-serif;
+                font-size: var(--h6-font-size);
+                font-style: var(--h6-font-style);
+                font-weight: var(--h6-font-weight);
+                line-height: var(--h6-line-height);
+                margin-top: -1.00px;
+                position: relative;
+                width: fit-content;
+            }
+        }
+
+        .profileRow {
+            align-items: center;
+            display: inline-flex;
+            flex: 0 0 auto;
+            gap: 24px;
+            position: relative;
+        }
+    }
+}

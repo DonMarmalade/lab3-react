@@ -1,0 +1,26 @@
+.titleButtons {
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+    padding: 0 0 0 20px;
+    position: relative;
+    
+    button {
+        height: 36px;
+        width: 36px;
+        position: relative;
+        cursor: pointer;
+    }
+}
+
+.selected {
+    background-image: url("src/assets/poligon/selected.svg");
+    border: none;
+    background-size: 100% 100%;
+}
+
+.unselected {
+    background-image: url("src/assets/poligon/unselected.svg");
+    border: none;
+    background-size: 100% 100%;
+}

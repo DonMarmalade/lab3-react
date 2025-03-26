@@ -1,0 +1,29 @@
+.page {
+    align-items: center;
+    display: flex;
+    height: 32px;
+    width: 32px;
+    justify-content: center;
+    padding: 2px 10px;
+    position: relative;
+
+    p {
+        color: var(--light-black);
+        font-family: var(--h7-font-family), sans-serif;
+        font-size: var(--h7-font-size);
+        font-style: var(--h7-font-style);
+        font-weight: var(--h7-font-weight);
+        line-height: var(--h7-line-height);
+        margin-top: -1.00px;
+        width: fit-content;
+    }
+}
+
+.highlightPage {
+    background-color: var(--light-purple);
+    border-radius: 5px;
+
+    p {
+        color: var(--light-white);
+    }
+}

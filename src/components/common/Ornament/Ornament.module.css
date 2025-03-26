@@ -1,0 +1,15 @@
+.ornamentRow {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+
+    .line {
+        color: var(--light-gray);
+        flex: 1;
+        object-fit: cover;
+        position: relative;
+    }
+}
